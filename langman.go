@@ -72,6 +72,7 @@ func Gas(gc GasConfig) air.Gas {
 			res.SetCookie(&http.Cookie{
 				Name:   cookieName,
 				Value:  al,
+				Path:   "/",
 				MaxAge: gc.CookieMaxAge,
 			})
 
