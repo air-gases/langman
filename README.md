@@ -1,6 +1,6 @@
 # Langman
 
-[![GoDoc](https://godoc.org/github.com/air-gases/langman?status.svg)](https://godoc.org/github.com/air-gases/langman)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/air-gases/langman)](https://pkg.go.dev/github.com/air-gases/langman)
 
 A useful gas that used to manage the Accept-Language header for the web
 applications built using [Air](https://github.com/aofei/air).
